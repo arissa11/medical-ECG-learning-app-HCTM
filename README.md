@@ -1,4 +1,4 @@
-# medical-ECG-learning-app-HUKM (Internship Project)
+# medical-ECG-learning-app-HCTM (Internship Project)
 A diagnostic and educational tool to help doctors and medical students to analyze ECG graphs and receive disease predictions. It also serves as an ECG learning platform for medical students and medical staffs.
 
 ## Overview
